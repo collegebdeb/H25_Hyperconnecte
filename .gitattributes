@@ -3,3 +3,4 @@ Content/MSPresets/** filter=lfs diff=lfs merge=lfs -text
 Content/Megascans/** filter=lfs diff=lfs merge=lfs -text
 Content/Art/** filter=lfs diff=lfs merge=lfs -text
 Content/CitySampleCrowd/** filter=lfs diff=lfs merge=lfs -text
+Content/PhoneScreen/** filter=lfs diff=lfs merge=lfs -text
